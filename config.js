@@ -1,0 +1,9 @@
+const nameGirl = 'Vũ Nguyên';
+const giftUrl = 'https://www.facebook.com/Nguyenvv4';
+const eventName = 'Chúc Mừng 20-11';
+const titleCard = 'Tặng ông giáo Vũ Nguyên';
+const contentCard = 'Chúc ông giáo 20/11 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với ông giáo trong hôm nay và cả những ngày sau';
+const giftImage = 'vuu.png';
+const giftImages = 'nguyen.png';
+const base64 = '';
+const giftImageBase64 = "data:image/png;base64, " + base64;
