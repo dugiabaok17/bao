@@ -1,9 +1,0 @@
-const nameGirl = 'Hằng Nguyễn';
-const giftUrl = 'https://www.facebook.com/hangnguyen0499';
-const eventName = 'Chúc Mừng 20-11';
-const titleCard = 'Tặng cô Hằng Nguyễn';
-const contentCard = 'Chúc cô Hằng 20/11 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với cô Hằng trong hôm nay và cả những ngày sau, đặc biệt là lúc nào cũng chạy đủ KPI lắc tay !';
-const giftImage = 'hangnt.jpg';
-const giftImages = 'hang.jpg';
-const base64 = '';
-const giftImageBase64 = "data:image/png;base64, " + base64;
